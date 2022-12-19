@@ -1,0 +1,4 @@
+#define WINDOW_WIDTH 1040
+#define WINDOW_HEIGHT 680
+
+#define CASE_SIZE 80
